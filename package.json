@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ngockhanhdo0211/nodejs-pro-hoidanit/issues"
   },
-  "homepage": "https://github.com/ngockhanhdo0211/nodejs-pro-hoidanit#readme"
+  "homepage": "https://github.com/ngockhanhdo0211/nodejs-pro-hoidanit#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
